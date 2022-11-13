@@ -1,6 +1,6 @@
 ---
 title: Suhail Najeeb
-role: Professor of Artificial Intelligence
+role: Graduate Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -30,6 +30,8 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: The University of Melbourne
+    url: https://www.unimelb.edu.au/
 education:
   courses:
     - course: PhD in Artificial Intelligence
