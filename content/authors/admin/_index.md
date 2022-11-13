@@ -41,10 +41,10 @@ education:
       institution: Bangladesh University of Engineering and Technology
       year: 2018
 superuser: true
-last_name: Bighetti
+last_name: Najeeb
 highlight_name: true
-first_name: Alice
-email: suhailnajeeb@protonmail.com
+first_name: Suhail
+email: suhailnajeeb@proton.me
 ---
 I am Suhail Najeeb, a Graduate Researcher at the Department of Electrical and Electronic Engineering, The University of Melbourne. Before starting my Ph.D. at the University of Melbourne, I worked as a lecturer at the Department of ECE, East West University. I completed my Master of Science at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh, where I also completed my undergraduate studies in Electrical and Electronic Engineering. During my last couple of years as an undergraduate student, I came in touch with the field of Computer Vision and Deep Learning when I participated in the IEEE Video & Image Processing Cup 2017 & 2018. Since then, I have focused my interests towards Computer Vision and Deep learning. My Master’s research focused on developing novel techniques for the volumetric segmentation of lung tumors from CT scans. My current research involves Computer Vision applications involving Detection.
 
