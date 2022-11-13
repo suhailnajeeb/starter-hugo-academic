@@ -31,7 +31,7 @@ organizations:
     url: https://www.unimelb.edu.au/
 education:
   courses:
-    - course: Ph.D. (ongoing)
+    - course: Ph.D. (Ongoing) Doctor of Philosophy, Engineering & IT
       institution: The University of Melbourne
       year: ""
     - course: M.Sc. in Electrical and Electronic Engineering
