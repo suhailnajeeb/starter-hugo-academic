@@ -16,13 +16,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
 
   # Contact details (edit or remove options as required)
   email: suhailnajeeb@proton.me
@@ -39,9 +39,8 @@ content:
     longitude: '144.9610'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Mon-Fri 9:00 to 17:00'
+  appointment_url: 'https://calendly.com/suhailnajeeb'
   contact_links:
     - icon: twitter
       icon_pack: fab
