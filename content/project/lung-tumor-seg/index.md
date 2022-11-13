@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Follow
-  url: https://twitter.com/najeeb_suhail
-  icon_pack: fab
-  icon: twitter
+# links:
+# - name: Follow
+#   url: https://twitter.com/najeeb_suhail
+#   icon_pack: fab
+#   icon: twitter
 
 url_code: "https://github.com/suhailnajeeb/lungseg-vip2018"
 url_pdf: "https://github.com/suhailnajeeb/lungseg-vip2018/raw/master/Paper/ICCASP%202019%20Paper.pdf"
