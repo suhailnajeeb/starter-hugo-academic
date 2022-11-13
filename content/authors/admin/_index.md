@@ -2,56 +2,47 @@
 title: Suhail Najeeb
 role: Graduate Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include deep learning and computer vision.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/najeeb_suhail
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rz5TCswAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/suhailnajeeb
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https:/www.linkedin.com/in/suhailnajeeb/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: The University of Melbourne
     url: https://www.unimelb.edu.au/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. (ongoing)
+      institution: The University of Melbourne
+      year: ""
+    - course: M.Sc. in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering and Technology
+      year: 2022
+    - course: B.Sc. in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering and Technology
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: suhailnajeeb@protonmail.com
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+H﻿i! I'm Suhail, a Graduate Researcher doing my Ph.D. at The University of Melbourne. My research interests include deep learning and computer vision.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
