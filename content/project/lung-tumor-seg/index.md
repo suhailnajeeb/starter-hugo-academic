@@ -4,7 +4,7 @@
 title: "Lung Cancer Radiomics - Tumor Region Segmentation"
 summary: "We propose a pipeline for lung tumor detection and segmentation on the NSCLC Radiomics dataset. The pipeline utilized a hybrid-3d dilated convolutional neural network architecture for the segmentation task and won the IEEE VIP Cup 2018 challenge."
 authors: ["Shahruk Hossain", "Suhail Najeeb"]
-tags: ["lung-tumor-segmentation", "segmentation", "dilated-cnn","deep-learning","computer-vision","ct-scan"]
+tags: ["lung-tumor-segmentation", "segmentation", "dilated-cnn","deep-learning","ct-scan", "biomedical-imaging"]
 categories: ["computer-vision"]
 date: 2020-10-07
 
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: Follow
-#  url: https://twitter.com/najeeb_suhail
-#  icon_pack: fab
-#  icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/najeeb_suhail
+  icon_pack: fab
+  icon: twitter
 
 url_code: "https://github.com/suhailnajeeb/lungseg-vip2018"
 url_pdf: "https://github.com/suhailnajeeb/lungseg-vip2018/raw/master/Paper/ICCASP%202019%20Paper.pdf"

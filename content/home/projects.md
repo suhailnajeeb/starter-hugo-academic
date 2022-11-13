@@ -28,9 +28,11 @@ content:
     - name: All
       tag: '*'
     - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+      tag: deep-learning
+    - name: Biomedical Imaging
+      tag: biomedical-imaging
+    - name: Computer Vision
+      tag: computer-Vision
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

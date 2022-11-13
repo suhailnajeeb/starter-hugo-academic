@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: Follow
-#  url: https://twitter.com/najeeb_suhail
-#  icon_pack: fab
-#  icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/najeeb_suhail
+  icon_pack: fab
+  icon: twitter
 
 url_code: "https://github.com/suhailnajeeb/cure-tsd-revisit"
 url_pdf: ""

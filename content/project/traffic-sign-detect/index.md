@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: Follow
-#  url: https://twitter.com/najeeb_suhail
-#  icon_pack: fab
-#  icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/najeeb_suhail
+  icon_pack: fab
+  icon: twitter
 
 url_code: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017"
 url_pdf: "https://github.com/suhailnajeeb/traffic-sign-detection-vip2017/raw/master/Traffic%20Sign%20Detection%20under%20Challenging%20Conditions_Using%20Faster%20RCNN.pdf"

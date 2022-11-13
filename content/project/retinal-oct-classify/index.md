@@ -4,7 +4,7 @@
 title: "Classification of Diseases from Retinal OCT Scan"
 summary: "Designed a lightweight CNN for medical classification. The network is able to classify retinal diseases from OCT Scans."
 authors: ["Suhail Najeeb"]
-tags: ["retinal-oct", "cnn","deep-learning","biomedical-imaging"]
+tags: ["retinal-oct", "cnn","biomedical-imaging"]
 categories: ["computer-vision"]
 date: 2018-12-20
 
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#  url: https://twitter.com/najeeb_suhail
-#  icon_pack: fab
-#  icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/najeeb_suhail
+  icon_pack: fab
+  icon: twitter
 
 url_code: "https://github.com/suhailnajeeb/retinal-oct-classify"
 url_pdf: ""
