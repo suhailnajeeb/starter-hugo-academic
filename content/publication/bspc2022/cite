@@ -1,0 +1,13 @@
+@article{NAJEEB2022103996,
+title = {Spatial feature fusion in 3D convolutional autoencoders for lung tumor segmentation from 3D CT images},
+journal = {Biomedical Signal Processing and Control},
+volume = {78},
+pages = {103996},
+year = {2022},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2022.103996},
+url = {https://www.sciencedirect.com/science/article/pii/S174680942200444X},
+author = {Suhail Najeeb and Mohammed Imamul Hassan Bhuiyan},
+keywords = {Segmentation, CT scan, Lung tumor, Convolutional autoencoders, Deep learning},
+abstract = {Accurate detection and segmentation of lung tumors from volumetric CT scans is a critical area of research for the development of computer aided diagnosis systems for lung cancer. Several existing methods of 2D biomedical image segmentation based on convolutional autoencoders show decent performance for the task. However, it is imperative to make use of volumetric data for 3D segmentation tasks. Existing 3D segmentation networks are computationally expensive and have several limitations. In this paper, we introduce a novel approach which makes use of the spatial features learned at different levels of a 2D convolutional autoencoder to create a 3D segmentation network capable of more efficiently utilizing spatial and volumetric information. Our studies show that without any major changes to the underlying architecture and minimum computational overhead, our proposed approach can improve lung tumor segmentation performance by 1.61%, 2.25%, and 2.42% respectively for the 3D-UNet, 3D-MultiResUNet, and Recurrent-3D-DenseUNet networks on the LOTUS dataset in terms of mean 2D dice coefficient. Our proposed models also respectively report 7.58%, 2.32%, and 4.28% improvement in terms of 3D dice coefficient. The proposed modified version of the 3D-MultiResUNet network outperforms existing segmentation architectures on the dataset with a mean 2D dice coefficient of 0.8669. A key feature of our proposed method is that it can be applied to different convolutional autoencoder based segmentation networks to improve segmentation performance.}
+}
