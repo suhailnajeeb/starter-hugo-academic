@@ -23,30 +23,44 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - organization: Team Markovians
+    organization_url: https://ieeexplore.ieee.org/abstract/document/8590841
+    title: Champions, IEEE VIP Cup 2018
+    url: https://2018.ieeeicip.org/VIPCup.asp
+    date_start: '2018-10-07'
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    description: 'Lung Cancer Radiomics - Tumor Region Segmentation'
+  - organization: Team Markovians
+    organization_url: http://www.2017.ieeeicip.org/Vipcup.html
+    title: 2nd Runner up, IEEE VIP Cup 2017
+    url: http://www.2017.ieeeicip.org/Vipcup.html
+    date_start: '2017-09-17'
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    description: 'Traffic Sign Recognition under Challenging Conditions'
+#  - certificate_url: https://www.coursera.org
+#    date_end: ''
+#    date_start: '2021-01-25'
+#    description: ''
+#    organization: Coursera
+#    organization_url: https://www.coursera.org
+#    title: Neural Networks and Deep Learning
+#    url: ''
+#  - certificate_url: https://www.edx.org
+#    date_end: ''
+#    date_start: '2021-01-01'
+#    description: Formulated informed blockchain models, hypotheses, and use cases.
+#    organization: edX
+#    organization_url: https://www.edx.org
+#    title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#  - certificate_url: https://www.datacamp.com
+#    date_end: '2020-12-21'
+#    date_start: '2020-07-01'
+#    description: ''
+#    organization: DataCamp
+#    organization_url: https://www.datacamp.com
+#    title: 'Object-Oriented Programming in R'
+#    url: ''
 
 design:
   columns: '2'
