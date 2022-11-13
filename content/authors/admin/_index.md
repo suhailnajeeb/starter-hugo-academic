@@ -4,9 +4,9 @@ role: Graduate Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include deep learning and computer vision.
 interests:
-  - Computer+Vision
-  - Deep+Learning
-  - Machine+Learning
+  - Computer Vision
+  - Deep Learning
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
