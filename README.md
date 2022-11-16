@@ -1,6 +1,6 @@
 # Suhail Najeeb's Personal Website
 
-Here is the link to the live website: [suhailnajeeb.netlify.app](suhailnajeeb.netlify.app)
+Here is the link to the live website: [suhailnajeeb.github.io](suhailnajeeb.github.io)
 
 The website has been developed with the `academic` theme from `wowchemy` using the `hugo` framework! More on the Hugo Academic theme below -->
 
