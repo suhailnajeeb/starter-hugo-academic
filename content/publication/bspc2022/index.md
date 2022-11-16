@@ -44,7 +44,7 @@ url_pdf: https://pdf.sciencedirectassets.com/273545/1-s2.0-S1746809422X00050/1-s
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: https://github.com/suhailnajeeb/spatial-feature-fusion/blob/main/slide/multi-scale-spatial-feature-fusion.pdf
 #url_source: ''
 #url_video: ''
 

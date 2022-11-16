@@ -30,7 +30,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 10th International Conference on Electrical and Computer Engineering (ICECE)*
-publication_short: In *ICECE2018*
+publication_short: In *ICECE 2018*
 
 abstract: Biomedical image classification for diseases is a lengthy and manual process. However, recent progress in computer vision has enabled detection and classification of medical images using machine intelligence a more feasible solution. We explore the possibility of automated detection and classification of retinal abnormlaities from retinal OCT scan images of ptients. We develop an algorithm to detect the region of interest from a retinal OCT scan and use a computationally inexpensive signle layer convolutional neural network structure for the classification process. Our model is trained on an open sourece retinal OCT dataset containing 83,484 images of various tunnel disease patients and provides a feasible classification accuracy.
 
