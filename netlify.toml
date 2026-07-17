@@ -19,6 +19,12 @@
 # Keep the most useful content families pointed at their closest current
 # landing page, then intentionally fall back unmatched legacy paths to home.
 [[redirects]]
+  from = "https://suhailnajeeb.netlify.app/google2978604ef42756f8.html"
+  to = "/google2978604ef42756f8.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "https://suhailnajeeb.netlify.app/post/chatgpt/*"
   to = "https://suhailnajeeb.com/writing"
   status = 301
