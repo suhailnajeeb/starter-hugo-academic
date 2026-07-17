@@ -15,6 +15,111 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# Retire the legacy Netlify hostname in favour of the canonical portfolio.
+# Keep the most useful content families pointed at their closest current
+# landing page, then intentionally fall back unmatched legacy paths to home.
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/post/chatgpt/*"
+  to = "https://suhailnajeeb.com/writing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/tag/chatgpt/*"
+  to = "https://suhailnajeeb.com/writing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/tag/language-model/*"
+  to = "https://suhailnajeeb.com/writing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/tag/nlp/*"
+  to = "https://suhailnajeeb.com/writing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/post/*"
+  to = "https://suhailnajeeb.com/writing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/project/*"
+  to = "https://suhailnajeeb.com/projects"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/publication/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/publication-type/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/publication_types/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/talk/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/event/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/slides/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/tag/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/tags/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/category/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/categories/*"
+  to = "https://suhailnajeeb.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://suhailnajeeb.netlify.app/*"
+  to = "https://suhailnajeeb.com"
+  status = 301
+  force = true
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
